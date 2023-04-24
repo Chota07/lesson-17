@@ -75,3 +75,6 @@ margin-top: 80px;
 .button {
     align-items: center;
 }
+.hiding{
+    display: none;
+}
